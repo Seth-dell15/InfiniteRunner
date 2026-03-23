@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BackGround
+  - BUSH
+  - VINES
+  - WOODS1
+  - WOODS2
+  - WOODS3
+  - WOODS4
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1596488425
+    locked: 0
+  - name: BUSH
+    uniqueID: 3052921655
+    locked: 0
+  - name: VINES
+    uniqueID: 2978779127
+    locked: 0
+  - name: WOODS1
+    uniqueID: 139901135
+    locked: 0
+  - name: WOODS2
+    uniqueID: 482349153
+    locked: 0
+  - name: WOODS3
+    uniqueID: 2676095771
+    locked: 0
+  - name: WOODS4
+    uniqueID: 149654791
+    locked: 0
+  - name: Player
+    uniqueID: 3367239413
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Player
